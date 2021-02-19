@@ -3,11 +3,8 @@
 
 
 
-
-![1](raw.githubusercontent.com/anomaly-88/burclarYalin/main/blob/image.PNG?raw=true "Karşılama Ekranı"  = 300x300)
-
-
-
-![2](raw.githubusercontent.com/anomaly-88/burclarYalin/main/blob/image.PNG2?raw=true "Komut Çalıştırmak" = 300x300)
+Karşılama Ekranı ve Komut Çalıştırmak
+![1](https://raw.githubusercontent.com/anomaly-88/burclarYalin/main/blob/image.PNG?raw=true)
+![2](https://raw.githubusercontent.com/anomaly-88/burclarYalin/main/blob/image2.PNG?raw=true)
 
 
