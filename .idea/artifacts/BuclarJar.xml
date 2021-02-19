@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BuclarJar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BuclarJar</output-path>
-    <root id="archive" name="BuclarJar.jar" />
-  </artifact>
-</component>
