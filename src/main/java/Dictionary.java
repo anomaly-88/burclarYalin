@@ -349,7 +349,8 @@ public enum Dictionary {
                 "\n                        01.01.2020 !ozellikler !gezegen !renk" +
                 "\nTüm Komutlar İçin: cmd" +
                 "\nBu Ekranı Tekrar Görmek İçin k yazabilirsiniz." +
-                "\nÇıkış: !q\n");
+                "\nÇıkış: !q" +
+                "\nDemo Burç İçerikleri https://www.elle.com.tr/astroloji/ sayfasından alınmıştır.\n");
     }
 
 //main fnc
@@ -412,7 +413,7 @@ public enum Dictionary {
 
 
             for(int i=0;i<parcalanmisKullaniciOpt.length;i++){
-                System.out.println(parcalanmisKullaniciOpt[i]);
+                //System.out.println(parcalanmisKullaniciOpt[i]);
             }
 
             if (parcalanmisKullaniciBurcIsmiGirdisi.length > 0) {
@@ -572,8 +573,6 @@ public enum Dictionary {
                             if(str.trim().contains("cocuk")){
                                 System.out.println("    Çocuk: " + key.getCocuk() + "\n");
                             }
-
-
 
                         }
                     }
